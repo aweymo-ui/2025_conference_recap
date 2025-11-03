@@ -5,7 +5,9 @@ gallery: true
 ---
 
 
-{% include gallery-figure.html img="banner.png" alt="title card of the presentation Adobe PDF Accessibility Remediation Workshop, guide for University of Idaho Faculty, staff and Students, Andrew Weymouth, Fall 2025 and an image of two circles using a PDF file called Effective Farming Systems." %}
+{% include gallery-figure.html img="banner.jpg" alt="title card of the presentation 2025 Conference Recap with an image of people on a tour outside and a koi fish with a lily pad over its head along with an author photo." %}
+
+[slide deck](https://indd.adobe.com/view/77f3bfba-18e9-4f14-b5a4-4e59332e75d2)
 
 <br>
 
